@@ -4,3 +4,4 @@ class App < Sinatra::Base
   get'/' do
     "Welcome to my life"
 end
+end
